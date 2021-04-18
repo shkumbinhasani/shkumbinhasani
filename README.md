@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS and Spring boot
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me
-        Instargam: @shkumbinhsn
+        Instagram: @shkumbinhsn
         Whatsapp: +38349631561
         Email: shkumbinhasani2000@gmail.com
 
