@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @shkumbinhasani
 - 👀 I’m interested in all things excluding cars and sports
-- 🌱 I’m currently learning ReactJS and Spring boot
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently advancing on ReactJS, Typescript and NodeJS
 - 📫 How to reach me
-        Instagram: @shkumbin.hsn
         Twitter: @shkumbinpunchi
         Whatsapp: +38349631561
         Email: shkumbinhasani2000@gmail.com
