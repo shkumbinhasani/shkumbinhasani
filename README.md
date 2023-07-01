@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shkumbinhasani
 - 👀 I’m interested in all things excluding cars and sports
-- 🌱 I’m currently advancing on ReactJS, Typescript and NodeJS
+- 🌱 I’m currently advancing on ReactJS, Typescript and NodeJS, and learning React Native
 - 📫 How to reach me
         Twitter: @shkumbinpunchi
         Whatsapp: +38349631561
